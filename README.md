@@ -66,5 +66,4 @@ python app.py
 
 ```bash
 pip install streamlit tensorflow keras numpy pyngrok
-
-----
+```
