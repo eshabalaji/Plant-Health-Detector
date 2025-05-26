@@ -29,8 +29,9 @@ git clone https://github.com/your-username/plant-health-detector.git
 cd plant-health-detector
 pip install -r requirements.txt
 python app.py
+```
 
-##📦 Applications
+## 📦 Applications
 1.*Smart farming and crop monitoring.*
 2.*Educational and research tool in plant pathology.*
 3.*Early warning system for agricultural extension workers.*
