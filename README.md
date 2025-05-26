@@ -17,12 +17,22 @@ Crop diseases, especially in vital crops like **tomatoes** and **potatoes**, thr
 - Streamlit / Flask / FastAPI (web interface)
 - Dataset: PlantVillage
 
-## PlantHealthDetector
- ├── app.py                     # Streamlit web app
- ├── predict_plant_health.py    # Separate prediction logic
- ├── Final_Updated_Plant_Disease_Model_latest.h5
- └── requirements.txt           # Optional
+## 🚀 Features
 
+- 🔍 Detects and classifies common plant diseases
+- 🍅 Supports tomato diseases like early blight, leaf mold, viral infections
+- 🥔 Detects potato blight and healthy leaves
+- 📸 Upload multiple images for better accuracy
+- 🌐 Streamlit-based web interface
+- ☁️ Google Colab + ngrok compatible deployment
+
+
+## 🧠 Model Details
+
+- **Trained on**: PlantVillage dataset
+- **Framework**: TensorFlow / Keras
+- **Model Input Size**: Automatically resized to match trained model
+- **Model File**: `Final_Updated_Plant_Disease_Model_latest.h5`
 
 ## 🚀 How It Works
 1. **Upload** a leaf image (tomato or potato).
@@ -51,5 +61,10 @@ python app.py
 1. *Smart farming and crop monitoring.*
 2. *Educational and research tool in plant pathology.*
 3. *Early warning system for agricultural extension workers.*
+
+## 🛠️ Requirements
+
+```bash
+pip install streamlit tensorflow keras numpy pyngrok
 
 ----
