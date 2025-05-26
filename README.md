@@ -22,6 +22,15 @@ Crop diseases, especially in vital crops like **tomatoes** and **potatoes**, thr
 2. **Image processing** and prediction via trained ML model.
 3. **Results** display the health status and disease name, with recommended actions.
 
+---
+
+## 🔍 Inference Code
+Use `predict_plant_health.py` or the notebook version to:
+- Load your trained `.h5` model from Google Drive
+- Predict disease class from one or more leaf images
+- View results directly in Colab with color-coded HTML output
+
+
 ## 📱 Usage
 Clone the repository and run the app locally:
 ```bash
