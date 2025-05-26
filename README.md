@@ -17,6 +17,13 @@ Crop diseases, especially in vital crops like **tomatoes** and **potatoes**, thr
 - Streamlit / Flask / FastAPI (web interface)
 - Dataset: PlantVillage
 
+## PlantHealthDetector
+ ├── app.py                     # Streamlit web app
+ ├── predict_plant_health.py    # Separate prediction logic
+ ├── Final_Updated_Plant_Disease_Model_latest.h5
+ └── requirements.txt           # Optional
+
+
 ## 🚀 How It Works
 1. **Upload** a leaf image (tomato or potato).
 2. **Image processing** and prediction via trained ML model.
