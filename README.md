@@ -33,6 +33,6 @@ python app.py
 ---
 
 ##📦 Applications
-1.Smart farming and crop monitoring
-2.Educational and research tool in plant pathology
-3.Early warning system for agricultural extension workers
+1.Smart farming and crop monitoring.
+2.Educational and research tool in plant pathology.
+3.Early warning system for agricultural extension workers.
