@@ -1,7 +1,7 @@
 # 🌿 Plant Health Detector
 
 ## Overview
-Crop diseases, especially in vital crops like **tomatos** and **potatoes**, threaten agricultural productivity and food security. Early detection is crucial, but many farmers lack access to effective diagnostic tools. This project provides an **AI-powered solution** to detect and classify common diseases like **early blight** and **late blight**, helping minimize crop loss and pesticide overuse.
+Crop diseases, especially in vital crops like **tomatoes** and **potatoes**, threaten agricultural productivity and food security. Early detection is crucial, but many farmers lack access to effective diagnostic tools. This project provides an **AI-powered solution** to detect and classify common diseases like **early blight** and **late blight**, helping minimize crop loss and pesticide overuse.
 
 ## 🎯 Objectives
 - **Detect plant health**: Distinguish between healthy and diseased tomato and potato leaves.
